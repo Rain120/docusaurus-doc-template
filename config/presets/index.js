@@ -29,7 +29,7 @@ const presets = [
 					'https://github.com/rain120/docusaurus-doc-template/edit/main/blog/',
 			},
 			theme: {
-				customCss: require.resolve('../src/css/custom.css'),
+				customCss: require.resolve('../../src/css/custom.css'),
 			},
 		}),
 	],
